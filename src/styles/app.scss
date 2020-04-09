@@ -5,6 +5,10 @@
 @import "rtl";
 @import "responsive";
 
+// regular style toast 
+@import '~ngx-toastr/toastr';
+ 
+
 @media print {
     .breadcrumb {
         display: none !important;
